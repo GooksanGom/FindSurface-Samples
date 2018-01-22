@@ -18,7 +18,7 @@ Start to build the sample source code, then there exists plug-in files at "bin" 
 
 **This sample plugin has not been published in the Revit app store, so you will see a warning message that confirms that you intend to load the plugin when you run Revit.**
 
-Download the addin manifest file at []2 and put the file in your Revit addin folder (ex: C:\ProgramData\Autodesk\Revit\Addins\2017\) to indicate Revit the location of the plugin. Or you may write an addin manifest file following the instruction in [here](https://knowledge.autodesk.com/search-result/caas/CloudHelp/cloudhelp/2017/ENU/Revit-API/files/GUID-7577712B-B09F-4585-BE0C-FF16A5078D29-htm.html).
+Download the addin manifest file at [the place will be uploaded soon]2 and put the file in your Revit addin folder (ex: C:\ProgramData\Autodesk\Revit\Addins\2017\) to indicate Revit the location of the plugin. Or you may write an addin manifest file following the instruction in [here](https://knowledge.autodesk.com/search-result/caas/CloudHelp/cloudhelp/2017/ENU/Revit-API/files/GUID-7577712B-B09F-4585-BE0C-FF16A5078D29-htm.html).
 
 Revit program will start to load the plug-in automatically, as you run the program. When the plug-in loads completely, the FindSurface tab will be added to the Revit ribbon menu. FindSurface tab buttons allow a user not only to load point clouds but also to detect primitives such as plane, sphere, cylinder, cone, and torus. When the user clicks on the blue buttons in the FindSurface tab and then clicks on the surface of the point cloud, our plug-in will detect the parametric geometry around the point and display it on the Revit workspace.
 
