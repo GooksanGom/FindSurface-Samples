@@ -10,6 +10,9 @@ This program is designed to demonstrate a possibility of showing a new method, m
 
 This sample plug-in performs only basic functions as an example using FindSurface SDK and is not suitable for practical use.
 
+**The sample only runs with our FindSurface SDK library files (FindSurface.dll, etc.).**
+
+**You must either [request a free trial](http://developers.curvsurf.com/licenses.jsp) or [purchase a license](https://developers.curvsurf.com/licenses.jsp) to activate the library files.**
 
 Quick Start
 -----------
@@ -64,7 +67,7 @@ In order to perform the following functions below, click three surfaces of point
 	- Settings: adjusting the parameters of FindSurface library.
 
 
-####FindSurface parameter
+- FindSurface parameters
 
 See [documentation](https://developers.curvsurf.com/documentation.jsp) > Concepts for more details.
 
